@@ -1,19 +1,30 @@
 ## Assignment Part-1
 Q1. Why do we call Python as a general purpose and high-level programming language?
 
+
+
 Q2. Why is Python called a dynamically typed language?
 
 Q3. List some pros and cons of Python programming language?
 
 Q4. In what all domains can we use Python?
 
+ans. 
+
 Q5. What are variable and how can we declare them?
+Sol. Variables are which stores the values.
+    name="PythonGeeks"
+    _no = 5
 
 Q6. How can we take an input from the user in Python?
+ By using input()
 
 Q7. What is the default datatype of the value that has been taken as an input using input() function?
+The default value is String.
 
 Q8. What is type casting?
+
+Ans. Conversion from a one data type to another one.
 
 Q9. Can we take more than one input from the user using single input() function? If yes, how? If no, why?
 
